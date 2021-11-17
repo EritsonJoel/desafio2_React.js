@@ -1,14 +1,19 @@
 import React from 'react';
 import './App.css';
 import MenuItems from './componentes/navbar/MenuItems';
-import Titulo from './componentes/Titulo';
+import ItemListContainer from './componentes/ItemListContainer';
 
 
 function App() {
+
+
+
+  let saludo = 'Bienvenidos' 
   return (
     <div className="App"> 
    <MenuItems/>
-    <Titulo className="Titulo"/>
+    
+    <ItemListContainer className="Titulo"  greetings = {saludo}/>
      </div>
     
   );

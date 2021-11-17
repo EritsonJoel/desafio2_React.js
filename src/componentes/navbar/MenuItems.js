@@ -3,6 +3,7 @@ import  React  from  'react'
 import './navbar.css'
 
 
+
  function MenuItems() {
      return (
        <div className="MenuItems">
@@ -13,6 +14,7 @@ import './navbar.css'
      <li><a href="#">CONTACTOS</a></li>
      
     </ul>
+
     </div> 
 
 
