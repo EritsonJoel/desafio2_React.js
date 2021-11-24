@@ -9,7 +9,9 @@
   display: flex;
   justify-content: space-around;
   justify-items: center;
-  padding: 4em;
+  padding: 0em;
+  width: 70%;
+  height: 100px;
 }
 a {
   text-decoration: none;

@@ -10,7 +10,7 @@ const  Titulo = (props) =>{  //este para,
 
     <>
     
-    <h2>{props.greetings}</h2>
+    <h2>{props.greetings} </h2>
     
     </>
 

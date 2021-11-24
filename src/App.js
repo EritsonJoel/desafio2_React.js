@@ -13,7 +13,7 @@ function App() {
     <div className="App"> 
    <MenuItems/>
     
-    <ItemListContainer className="Titulo"  greetings = {saludo}/>
+    <ItemListContainer className="titulo"  greetings = {saludo}/>
      </div>
     
   );
